@@ -29,6 +29,6 @@ Kurssin II-osan tehtävien deadline on su 22.12. klo 23:59. Kaikki materiaali ja
 
 Kurssin ohjausta järjestetään Discordissa, jossa voit keskustella kurssin järjestäjien ja muiden opiskelijoiden kanssa. [Liity ryhmään](https://study.cs.helsinki.fi/discord/join/tira)
 
-Lisäksi ohjausta on tarjolla Kumpulan kampuksella. Ohjausajat ilmoitetaan myöhemmin.
+Lisäksi ohjausta on tarjolla Kumpulan kampuksella Exactumin salissa BK107 tiistaisin, torstaisin ja perjantaisin klo 14–18.
 
 Kurssin vastuuhenkilö syksyllä 2024 on Antti Laaksonen. Voit ottaa yhteyttä lähettämällä [sähköpostia](mailto:ahslaaks@cs.helsinki.fi).
