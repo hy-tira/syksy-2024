@@ -21,9 +21,9 @@ Kurssin suoritus edellyttää, että ratkot ainakin 5 tehtävää kultakin viiko
 * 55–59 tehtävää: arvosana 4
 * 60–64 tehtävää: arvosana 5
 
-Kurssin I-osan tehtävien deadline on su 27.10. klo 23:59. Kaikki materiaali ja tehtävät julkaistaan 2.9. kurssin alkaessa.
+Kurssin I-osa muodostuu viikoista 1–8, ja tehtävien deadline on su 27.10. klo 23:59. Kaikki materiaali ja tehtävät julkaistaan 2.9. kurssin alkaessa.
 
-Kurssin II-osan tehtävien deadline on su 22.12. klo 23:59. Kaikki materiaali ja tehtävät julkaistaan 28.10. kurssin alkaessa.
+Kurssin II-osa muodostuu viikoista 9–16, ja tehtävien deadline on su 22.12. klo 23:59. Kaikki materiaali ja tehtävät julkaistaan 28.10. kurssin alkaessa.
 
 ## Ohjaus ja yhteystiedot
 
